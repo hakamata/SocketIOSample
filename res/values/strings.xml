@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SocketIOSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="search_form_label">検索フォーム</string>
+    <string name="button_label">送信</string>
+    <string name="message_label">メッセージ</string>
+</resources>
