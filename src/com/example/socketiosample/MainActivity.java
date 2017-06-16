@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.activity_main);
 
-		// ListViewの設定
+		// ListViewを設定する
 		adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
 		ListView listView = (ListView)findViewById(R.id.listView1);
 		listView.setAdapter(adapter);
