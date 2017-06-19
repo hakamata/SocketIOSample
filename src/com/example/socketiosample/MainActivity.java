@@ -18,7 +18,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 
-public class MainActivity extends Activity { 
+public class MainActivity extends Activity {
 
 	private EditText editText;
 	private ArrayAdapter<String> adapter;
